@@ -1,0 +1,5 @@
+env/
+done/covers/
+done/songs/
+core/__pycache__/
+core/api/__pycache__/
